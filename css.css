@@ -39,7 +39,7 @@ p {
 #title2 {
 	font-size: 125%;
 	font-weight: bold;
-	
+	text-align: center;
 	right: 0;
 	background-color: #bb0000;
 	position: relative;
@@ -49,7 +49,7 @@ p {
 #title3 {
 	font-size: 125%;
 	font-weight: bold;
-	
+	text-align: center;
 	right: 0;
 	background-color: #000099;
 	position: relative;
